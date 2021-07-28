@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Joanna Świstek. I'm in Talent Acquisition Group in GlobalLogic Poland.
+- 👀 I’m looking for Embedded C Developers.
+- 💞️ We have interesting projects in the newest technology.
+- 📫 How to reach me: joanna.swistek@globallogic.com or https://www.linkedin.com/in/joanna-%C5%9Bwistek-b2642a208/
